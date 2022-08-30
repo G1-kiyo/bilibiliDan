@@ -1,5 +1,8 @@
 # bilibiliDan B站弹幕爬取工具
 
+# 预览
+![主界面](https://github.com/G1-kiyo/bilibiliDan/blob/master/static/preview.png)
+
 ## 功能
 1. 弹幕爬取
     1. 直接爬取
