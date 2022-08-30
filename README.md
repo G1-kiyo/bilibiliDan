@@ -34,6 +34,7 @@ dm = DmSegMobileReply()
 dm.ParseFromString(res.content)  #二进制编码格式
 data_dict = json.loads(MessageToJson(dm))  #json.loads将json转换成dict
 ```
+参考文章：https://blog.csdn.net/freeking101/article/details/123131304
 
 ## 进一步优化
 - 爬取日志
